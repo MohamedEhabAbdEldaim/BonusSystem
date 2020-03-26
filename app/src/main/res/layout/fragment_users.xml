@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/d50"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/text_view_heder"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:text="@string/user" />
+
+        <TextView
+            style="@style/text_view_heder"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/value" />
+
+        <TextView
+            style="@style/text_view_heder"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/bonus_value" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/fragment_user_rv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fragment_user_fbt_add_user"
+            style="@style/Widget.MaterialComponents.FloatingActionButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="@dimen/d16"
+            android:layout_marginEnd="@dimen/d16"
+            android:layout_marginBottom="@dimen/d16"
+            android:backgroundTint="@color/colorPrimary"
+            android:src="@drawable/ic_add_black_24dp" />
+
+    </RelativeLayout>
+</LinearLayout>

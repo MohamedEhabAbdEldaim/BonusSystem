@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BonusSystem</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="allBonus">"all bonus = "</string>
+    <string name="change_bonus">change bonus value</string>
+    <string name="clear_all_deprt">clear all department</string>
+    <string name="restapp">"clear all data "</string>
+    <string name="please_change_bonus">"please enter all bonus "</string>
+    <string name="bonus_value">bonus value</string>
+    <string name="change">change</string>
+    <string name="must_insert">you must insert bonus</string>
+    <string name="bonus_value_great_than">bonus value must great than zero</string>
+    <string name="add">add</string>
+    <string name="eg">eg</string>
+    <string name="name">"Name "</string>
+    <string name="degree">presentge</string>
+    <string name="department">department</string>
+    <string name="prsantage">presentage</string>
+    <string name="ask_clear_all_deprt">Did you want clear all department ?</string>
+    <string name="ask_clear_all_data">Did you want to delete all data</string>
+    <string name="check_if_all_user_same_bonus">please check if add user under department have same bonus</string>
+    <string name="cancel">cancel</string>
+    <string name="add_department">enter department with prasentag</string>
+    <string name="add_name_department">department name</string>
+    <string name="added">added</string>
+    <string name="empty">faild is required</string>
+    <string name="prsantage_less_or_equal">"prsantage must less than or equal "</string>
+    <string name="user">user name</string>
+    <string name="value">value</string>
+    <string name="department_exist">department is exist</string>
+    <string name="add_user">enter user</string>
+    <string name="add_name_user">user name</string>
+    <string name="user_value">user value</string>
+    <string name="clear_all_user">clear all user</string>
+    <string name="ask_clear_all_user">are you want clear all user ?</string>
+</resources>
