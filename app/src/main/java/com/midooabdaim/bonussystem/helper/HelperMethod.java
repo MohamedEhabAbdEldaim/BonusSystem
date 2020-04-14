@@ -98,7 +98,6 @@ public class HelperMethod {
             return true;
         }
     }
-
     public static boolean validationLength(TextInputLayout text, String errorText) {
         if (text.getEditText().length() <= 0) {
             text.setError(errorText);

@@ -9,7 +9,6 @@
     <string name="restapp">"clear all data "</string>
     <string name="please_change_bonus">"please enter all bonus "</string>
     <string name="bonus_value">bonus value</string>
-    <string name="change">change</string>
     <string name="must_insert">you must insert bonus</string>
     <string name="bonus_value_great_than">bonus value must great than zero</string>
     <string name="add">add</string>
@@ -21,7 +20,7 @@
     <string name="ask_clear_all_deprt">Did you want clear all department ?</string>
     <string name="ask_clear_all_data">Did you want to delete all data</string>
     <string name="check_if_all_user_same_bonus">please check if add user under department have same bonus</string>
-    <string name="cancel">cancel</string>
+    <string name="cancel">Cancel</string>
     <string name="add_department">enter department with prasentag</string>
     <string name="add_name_department">department name</string>
     <string name="added">added</string>
@@ -35,4 +34,6 @@
     <string name="user_value">user value</string>
     <string name="clear_all_user">clear all user</string>
     <string name="ask_clear_all_user">are you want clear all user ?</string>
+    <string name="change">change</string>
+    
 </resources>

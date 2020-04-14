@@ -277,6 +277,7 @@ public class departmentFragment extends BaseFragment {
                     dao.add(Department);
                 }
             });
+
             Toast.makeText(getActivity(), getString(R.string.added), Toast.LENGTH_LONG).show();
             setData();
 

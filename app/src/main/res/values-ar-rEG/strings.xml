@@ -1,2 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">حساب مكافات</string>
+    <string name="allBonus">"كل المكافاه = "</string>
+    <string name="change_bonus">تغير قيمه المكافاه</string>
+    <string name="clear_all_deprt">مسح كل الاقسام</string>
+    <string name="restapp">"مسح كل القيم "</string>
+    <string name="please_change_bonus">من فضلك ادخل قيمه المكافاء</string>
+    <string name="bonus_value">قيمه المكافا</string>
+    <string name="change">تغير</string>
+    <string name="must_insert">يجب ادخال قيمه المكافاه</string>
+    <string name="bonus_value_great_than">قيمه المكافاه يجب ان تكون اكبر من صفر</string>
+    <string name="add">اضافه</string>
+    <string name="eg">ar</string>
+    <string name="name">الاسم</string>
+    <string name="degree">النسبه</string>
+    <string name="department">القسم</string>
+    <string name="prsantage">النسبه</string>
+    <string name="ask_clear_all_deprt">هل انت عاوز تمسح كل الاقسام ؟</string>
+    <string name="ask_clear_all_data">هل انت عاوز تمسح كل المعلومات</string>
+    <string name="check_if_all_user_same_bonus">يجب ان ضغط عليا لو كل الاشخاص في القسم لهم نفس المكافاه</string>
+    <string name="cancel">الغاء</string>
+    <string name="add_department">ادخل القسم مع النسبه</string>
+    <string name="add_name_department">اسم القسم</string>
+    <string name="added">تمت الاضافه</string>
+    <string name="empty">يجب ادخال القيمه</string>
+    <string name="prsantage_less_or_equal">النسبه لازم تكون اقل من او تساوي</string>
+    <string name="user">اسم الشخص</string>
+    <string name="value">القيمه</string>
+    <string name="department_exist">القسم موجود</string>
+    <string name="add_user">ادخل الشخص</string>
+    <string name="add_name_user">اسم الشخص</string>
+    <string name="user_value">قيمه الشخص</string>
+    <string name="clear_all_user">مسح كل الاشخاص</string>
+    <string name="ask_clear_all_user">هل انت تريد مسح كل الاشخاص ؟</string>
+</resources>
